@@ -1,0 +1,10 @@
+#Write a programme that displays a diamond pattern
+print("* * * * * * * * * * * * * * * *  *                                    ")
+print("  * * * * * * * * * * * * * * *                                      ")
+print("    * * * * * * * * * * * *                                   ")
+print("      * * * * * * * * * *                                ")
+print("        * * * * * * * *                            ")
+print("          * * * * * *                        ")
+print("            * * * *                    ")
+print("              * *                      ")
+print("               *                ")
