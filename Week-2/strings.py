@@ -1,3 +1,11 @@
+#!/usr/bin/python3
+
+# This is a single line comment
+# Python program to illustrate the use of operators
+# Name :Gitau Faith
+# Email : gitaufaith@gmail.com
+# Date :17th Feb 2023
+# File : strings.py
 poem = """ This is a poem about nothing it funny to laugh about nothing"""
 print(len(poem))
 f_name="sasha"

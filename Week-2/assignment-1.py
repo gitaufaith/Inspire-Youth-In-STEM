@@ -1,3 +1,15 @@
+#!/usr/bin/python3
+
+# This is a single line comment
+# Python program to illustrate the use of operators
+# Name :Gitau Faith
+# Email : gitaufaith@gmail.com
+# Date :17th Feb 2023
+# File : assignment-1.py
+
+
+
+
 #write a program to list all odd numbers from 1-100
 print("***The values below are odd numbers****")
 for odd_numbers in range(1,101):

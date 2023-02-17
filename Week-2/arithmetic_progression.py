@@ -1,3 +1,16 @@
+#!/usr/bin/python3
+
+# This is a single line comment
+# Python program to illustrate the use of operators
+# Name :Gitau Faith
+# Email : gitaufaith@gmail.com
+# Date :17th Feb 2023
+# File : arithmetic_progression.py
+
+
+
+
+
 #write a program that calculates arithmetic progression from 1 to 20
 #formula n=nth term in the sequence,a=first term,d=common difference
 #AP=a+(n-1)d
