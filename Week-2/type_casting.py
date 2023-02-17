@@ -12,7 +12,7 @@
 
 height= 24.78 # float
 grade= 'A'
-#converting into an integer
+# converting into an integer
 h=int(height)
 
 number= 32

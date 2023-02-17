@@ -4,7 +4,7 @@
 # Python program to illustrate the use of operators
 # Name :Gitau Faith
 # Email : gitaufaith@gmail.com
-# Date :17th Feb 2023
+# Date :14th Feb 2023
 # File : user_input.py
 
 

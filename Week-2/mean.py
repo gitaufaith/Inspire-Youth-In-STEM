@@ -4,7 +4,7 @@
 # Python program to illustrate the use of operators
 # Name :Gitau Faith
 # Email : gitaufaith@gmail.com
-# Date :17th Feb 2023
+# Date :16th Feb 2023
 # File : mean.py
 numbers=[1,2,3,4,5,6,7,8,9,10]
 sum_num =0
