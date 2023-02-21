@@ -1,3 +1,13 @@
+#!/usr/bin/python3
+
+# This is a single line comment
+# Python program to illustrate the use of operators
+# Name :Gitau Faith
+# Email : gitaufaith@gmail.com
+# Date :9th Feb 2023
+# File : variables.py
+
+
 Method Description
 
 append() adds an element at the end of the list

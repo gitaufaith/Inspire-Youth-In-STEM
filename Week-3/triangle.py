@@ -1,3 +1,13 @@
+#!/usr/bin/python3
+
+# This is a single line comment
+# Python program to illustrate the use of operators
+# Name :Gitau Faith
+# Email : gitaufaith@gmail.com
+# Date :21st Feb 2023
+# File : triangles.py
+
+
 rows=int(input("Enter the number of rows"))
 k=2*rows-2
 for i in range(0,rows):
