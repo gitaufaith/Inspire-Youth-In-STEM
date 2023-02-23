@@ -30,7 +30,25 @@ print(student.keys())
 
 #"Name":"Bob" --> name(key) Bob(value)
 #4 sets 
+#fuctions
+#date and time(python module)
+#project oriented
+#programming
+#object and class
+#pip
+#file handling
+#sets is used to store multiple items in a single file it uses curly
+#e.g.{"Faith","orange"}
+#sets are further into -order
+                        #non-order
+my_fruits={"orange","apples","kiwi","banana"}
+print(my_fruits)
 
+for fruit in my_fruits:
+    print(fruit)
+    print(type(my_fruits))
+    print(len(my_fruits))
+    
 
 friends=["mark","annita","faith","yvonne"]
 #or friends=[] for empty list
