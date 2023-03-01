@@ -14,7 +14,7 @@ url('images/heroImage.jpeg');
     top:50%;
     left:50%;
     transform:translte(-50%,-50%);
-    color:white;
+    color:turquoise;
 }
 
 
@@ -34,9 +34,39 @@ url('images/heroImage.jpeg');
     text-align:center;
 }
 .card:hover .servicesIcon{
-    color:#008000;
+    color:#42339c;
 }
 .services:hover{
-    border:1px solid #008000;
+    border:1px solid #800066;
+}
+
+/* display color black on navbar scroll */.navbarScroll.navbarDark {
+    background:black;
+}
+
+/*social media icons styling*/.social media icons{
+    font-size:36px;
+    cursor:pointer;
+}
+.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover{
+    color:#000b80;
+}
+.fab {
+    color:#000000;
+}
+
+/*footer styling */
+#footer {
+    background-color:#808080;
+    text-align:center;
+}
+
+/* spacing on all sections */
+#about, #services, #portfolio, #contact {
+    margin-top:4rem;
+    padding-top:4rem;
+}
+#contact {
+    padding-bottom:4rem;
 }
 
