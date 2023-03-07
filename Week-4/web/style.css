@@ -1,0 +1,48 @@
+.body{
+    background-color:aqua;
+}
+h1{
+ font-size:40px;
+ color:black;
+ align-self:center; 
+ font-family: 'Lobster', cursive;
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size:12px;
+    background-color:rgb(15, 65, 65);
+}
+button{
+    color:rgb(159, 123, 243);
+    margin:26px;
+    align-self:center;
+    background-color:black;
+    border:none;
+    border-radius:20px;
+}
+
+#Email-button{
+    color:rgb(64, 225, 225);
+    margin:26px;
+    align-self:center;
+    background-color:black;
+    border:none;
+    border-radius:20px;
+}
+
+#msg-button{
+    color:rgb(94, 214, 214);
+    margin:26px;
+    align-self:center;
+    background-color:black;
+    border:none;
+    border-radius:10px;
+}
+p{
+    color:coral;
+    font-size:x-large;
+    align-self:auto;
+    font-family:'Times New Roman', Times, serif;
+    
+}
