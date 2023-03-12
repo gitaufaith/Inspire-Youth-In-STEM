@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+   <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <h2 id="text"> Javascript Basics</h2>
+        
+        
+        <h2 id="age"></h2>
+        <h2 id="weight"></h2>
+        <h2 id="first name"></h2>
+        <h2 id="second name"></h2>
+        <h2 id="f_number"></h2>
+        <h2 id="s_number"></h2>
+        <h2 id="f_name"></h2>
+        <h2 id="sum"></h2>
+        <h2 id="fruits"></h2>
+        <h2 id="msg"></h2>
+        <button>Click Me</button>
+        <script>
+            //variables in javascript
+            //Arithmetic Operators
+            // + - * / %(modulus)
+            var f_number=12;
+            var s_number=20;
+            var sum_num=32;
+
+            var n1=5;
+            var n2=8;
+            var sum=n1+n2;
+            var diff=n1-n2;
+            var pro=n1*n2;
+            var div=n1/n2;
+            var modulus=n1%n2;
+
+            var n1,n2,n3,n4; //declare variables
+
+            //string
+            var f_name="Faith"
+            var s_name="Joy"
+            var city="Nairobi"
+            var full_name=f_name+"  " +s_name;
+            var  age=23;
+            var weight=70.2;
+
+            //Arrays []
+            let fruits=[ "banana","apple","lime","guava","orange"]
+            let my_fruits = fruits[fruits.length -5];
+            var msg=" ";
+            //conditions -- if else
+            
+            if(age>18){
+                msg="You can drive";
+            } else{
+                msg="still too young to drive";
+            }
+
+            document.getElementById("msg").innerHTML=msg
+            document.getElementById("fruits").innerHTML=my_fruits
+            document.getElementById("f_number").innerHTML=f_number
+            document.getElementById("s_number").innerHTML=s_number
+            document.getElementById("age").innerHTML=age
+            document.getElementById("weight").innerHTML=weight
+            document.getElementById("sum").innerHTML=sum_num
+            document.getElementById("sum").innerHTML=full_name
+            document.getElementById("first name").innerHTML=f_name
+            document.getElementById("second name").innerHTML=s_name
+
+        </script>
+    </body>
+</html>
+
